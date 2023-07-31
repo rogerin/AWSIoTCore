@@ -1,5 +1,3 @@
-Claro! Aqui está a descrição em formato Markdown:
-
 ## O que é "coisa" na IoT?
 
 "Coisa" é uma tradução em português para a palavra em inglês "Thing". Em relação ao AWS IoT Core, uma "coisa" (ou "Thing") é uma entidade virtual que representa um dispositivo físico ou um aplicativo conectado à plataforma de Internet das Coisas (IoT).
