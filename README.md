@@ -3,6 +3,9 @@
 Este é um projeto de demonstração que exemplifica o funcionamento da integração com o AWS IoT Core usando Python para publicação e assinatura de mensagens. O projeto apresenta uma aplicação simples para controle remoto de dispositivos conectados à plataforma IoT.
 
 ![Projeto Funcionando](demo/demo1.gif)
+
+Não está sincronizada, mas é assim que a AWS recebe os dados.
+
 ![Projeto Funcionando](demo/demo2.gif)
 
 
