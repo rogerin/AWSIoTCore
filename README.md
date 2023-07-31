@@ -1,3 +1,17 @@
+### Descrição do Projeto
+
+Este é um projeto de demonstração que exemplifica o funcionamento da integração com o AWS IoT Core usando Python para publicação e assinatura de mensagens. O projeto apresenta uma aplicação simples para controle remoto de dispositivos conectados à plataforma IoT.
+
+![Projeto Funcionando](demo/demo1.gif)
+![Projeto Funcionando](demo/demo2.gif)
+
+
+Nesta imagem animada, você pode visualizar uma representação gráfica da troca de mensagens entre dispositivos IoT e o AWS IoT Core. A aplicação Python realiza a publicação de dados de sensores (simbolizados pelas setas verdes) e a assinatura para receber comandos de controle (simbolizados pelas setas azuis).
+
+A integração com o AWS IoT Core permite que dispositivos e aplicativos troquem informações em tempo real com a nuvem, viabilizando soluções IoT inteligentes e escaláveis.
+
+A imagem acima demonstra o projeto em execução, com os dispositivos enviando e recebendo dados na plataforma IoT, e representa uma solução prática e funcional da aplicação proposta.
+
 ## O que é "coisa" na IoT?
 
 "Coisa" é uma tradução em português para a palavra em inglês "Thing". Em relação ao AWS IoT Core, uma "coisa" (ou "Thing") é uma entidade virtual que representa um dispositivo físico ou um aplicativo conectado à plataforma de Internet das Coisas (IoT).
